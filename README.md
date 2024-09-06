@@ -17,6 +17,7 @@ In the next part of the project, we will add ‘wind’. This could be done in v
 ### OpenMP Performance Analysis
 The final aspect of the project is to explore the parallel performance of the model using BlueCrystal4. For this part of the project, we are not interested in the behaviour of the model itself, only the time
 taken to complete a run, and how this varies with the number of threads. Since the performance is intrinsically linked to the problem size, we study the timing data for three different values of N = 50, 100, 500.
+\n
 
 ## ```burning_forest_animated.ipynb```
 ### Visual Simulation
